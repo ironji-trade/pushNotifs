@@ -1,0 +1,17 @@
+{
+  "name": "appnotificationsbackend",
+  "version": "1.0.0",
+  "description": "This is for ironji App",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Mugabo Shyaka Cedric",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expo-server-sdk": "^3.3.0",
+    "express": "^4.17.1",
+    "sql": "^0.78.0"
+  }
+}
